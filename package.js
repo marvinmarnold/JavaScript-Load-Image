@@ -1,6 +1,6 @@
 Package.describe({
   name: 'marvin:javascript-load-image',
-  version: '2.1.0',
+  version: '2.1.01',
   summary: 'A JavaScript library to load and transform image files.',
   git: 'https://github.com/blueimp/JavaScript-Load-Image',
   documentation: 'README.md'

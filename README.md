@@ -2,6 +2,9 @@
 
 > A JavaScript library to load and transform image files.
 
+ALL CREDIT TO [JavaScript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image).
+THIS IS JUST A WRAPPER.
+
 ## Table of contents
 
 - [Demo](#demo)
